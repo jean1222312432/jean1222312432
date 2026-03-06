@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📁 5 years of experience in backend development with Node.js and JS
+- 📁 5 years of experience in backend development with Node.js/nest.js/express and JS
 - 🔭 I’m currently working on Fully Open Source Projects
 - 🌱 I’m currently learning ...
 
