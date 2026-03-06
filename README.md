@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 📁 5 years of experience in backend development with Node.js and JS
+- 🔭 I’m currently working on Fully Open Source Projects
+- 🌱 I’m currently learning ...
+
 <!--
 **jean1222312432/jean1222312432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
